@@ -1,4 +1,4 @@
-# loopback-connector-evmongodb
+# loopback-connector-mongodb
 
 
 This is an extension to loopback-connector-mongodb (https://github.com/strongloop/loopback-connector-mongodb)
