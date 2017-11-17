@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-mongodb",
-  "version": "0.9.0-beta",
+  "version": "1.0.0",
   "description": "The modified MongoDB connector for the LoopBack framework - customization done for oe-cloud.",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,7 @@
     "async": "^1.0.0",
     "debug": "^2.1.1",
     "loopback-connector": "^2.2.0",
-    "mongodb": "~2.0.35",
-    "node-uuid": "^1.4.8"
+    "mongodb": "~2.0.35"
   },
   "devDependencies": {
     "benchmark": "^1.0.0",
